@@ -1,3 +1,3 @@
-# Corona-shape-in-Python
+# Heart pattern using python
 
-Heart pattern using python
+pip install turtle
